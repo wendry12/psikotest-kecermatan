@@ -46,7 +46,7 @@ function startTimer() {
             }
         }
         timer--;
-    }, 100);
+    }, 1000);
 }
 
 function updateColumn() {
